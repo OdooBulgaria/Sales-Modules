@@ -11,7 +11,7 @@
     """,
     'author': "Explore Data Systems",
     'website': "http://www.exploredatasystems.com",
-    'category': 'Uncategorized',
+    'category': 'Sales Management',
     #Change the version every release for apps.
     'version': '0.1',
     # any module necessary for this one to work correctly
