@@ -10,7 +10,7 @@
     """,
     'author': "Explore Data Systems",
     'website': "http://www.exploredatasystems.com",
-    'category': 'Specific Industry Applications',
+    'category': 'Extra Tools',
     #Change the version every release for apps.
     'version': '0.1',
 	#the cost of the module in EUR
@@ -21,7 +21,7 @@
     ],
     # always loaded
     'data': [
-        'views/product_view.xml',	
+        'views/product_view.xml',
 		'views/product_actions.xml',
     ],
     # only loaded in demonstration mode
