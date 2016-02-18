@@ -14,7 +14,8 @@
     #Change the version every release for apps.
     'version': '0.1',
 	#the cost of the module in EUR
-	'price' : '20',
+	'price' : 20,
+	'currency': 'EUR',
     # any module necessary for this one to work correctly
     'depends': [
         'product',
