@@ -4,6 +4,7 @@
 ##############################################################################
 import base64#file encode
 import urllib2 #file download from url
+import httplib
 
 from openerp.osv import fields, osv
 import openerp.addons.decimal_precision as dp
