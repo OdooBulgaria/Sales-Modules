@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Import Product Images From URL",
+    'name': "Product Default Minimum Stock Rule",
     'summary': """
         Get product images from url""",
     'description': """
