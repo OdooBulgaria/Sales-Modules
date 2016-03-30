@@ -12,7 +12,7 @@
     'website': "http://www.exploredatasystems.com",
     'category': 'Extra Tools',
     #Change the version every release for apps.
-    'version': '0.1',
+    'version': '0.2',
 	#the cost of the module in EUR
 	'price' : 20,
 	'currency': 'EUR',
